@@ -11,5 +11,6 @@ public class Exercise01 {
         int sum = map.get("국어") + map.get("영어") + map.get("수학");
         int average = sum / 3;
         System.out.println(average);
+        System.out.println("Test");
     }
 }
